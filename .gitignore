@@ -9,3 +9,5 @@
 test.txt
 bias.txt
 DocuNotes.txt
+*.lnk
+*.json
